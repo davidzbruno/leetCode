@@ -13,10 +13,10 @@ class Solution {
     public String toLowerCase(String str) {
         return str.toLowerCase();
 
-        String res = "";
-        for(char c : str.toCharArray()){
-            res += Character.toLowerCase(c);
-        }
-        return res;
+        // String res = "";
+        // for(char c : str.toCharArray()){
+        //     res += Character.toLowerCase(c);
+        // }
+        // return res;
     }
 }
