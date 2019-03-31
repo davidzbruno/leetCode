@@ -3,8 +3,8 @@
 # File: p771.java
 #
 # Solve Date: 03/30/2019
-# Runtime: 7 ms
-# Memory: 38 MB
+# Runtime: 36 ms
+# Memory: 13.1 MB
 
 class Solution:
     def numJewelsInStones(self, J: str, S: str) -> int:
