@@ -1,8 +1,17 @@
 import java.util.*;
+/*
+Name: David Bruno
+Start Date: 05/18/2019
+File: p971.java
+Solve Date: 05/18/2019
+Runtime: 52ms
+Memory: 37.2 MB
+*/
 
 /*
 Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
 */
+
 class p997{
     public static int[] sortedSquares(int[] A) {
 
